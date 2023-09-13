@@ -6,6 +6,10 @@
   font-family: 'Rubik', sans-serif;
 }
 
+.body{
+  background: #505dc0;
+}
+
 .ipStats{
   background: url(./images/pattern-bg.png);
   background-repeat: no-repeat;
