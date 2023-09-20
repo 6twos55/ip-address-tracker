@@ -91,8 +91,10 @@ body{
 
 .map{
   /* background: #7878fe; */
-  height: 500px;
+  height: 600px;
   width: 100%;
+  background: url('./images/location.png'), no-repeat;
+  background-size: cover;
 }
 
 
